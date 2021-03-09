@@ -13,7 +13,7 @@ import org.tmc.healths.AppHealthCheck;
 import org.tmc.resourse.HealthCheckResource;
 
 import com.codahale.metrics.health.HealthCheckRegistry;
-
+ 
 
 public class ClientApp extends Application<ClientConfiguration> {
 
